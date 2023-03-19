@@ -1,0 +1,19 @@
+html{
+    background-color: black;
+    color: white;
+}
+
+.App{
+    background-color: black;
+    color: white;
+}
+
+
+.todo-list{
+    padding: 5px;
+    border: 5px white;
+    font-size: 25px;
+    letter-spacing: 1.5px;
+    
+}
+
